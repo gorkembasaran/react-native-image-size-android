@@ -24,7 +24,6 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "ESNext",
-    "verbatimModuleSyntax": true,
-    "typeRoots": ["./node_modules/@types", "./types"]
+    "verbatimModuleSyntax": true
   }
 }
